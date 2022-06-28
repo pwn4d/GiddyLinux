@@ -25,7 +25,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/GiddyLinux">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiddyLinux&hide=ruby&layout=compact&hide_border=true&langs_count=6&theme=radical" alt="Giddy's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiddyLinux&hide=ruby&layout=compact&hide_border=false&langs_count=6&theme=radical" alt="Giddy's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
