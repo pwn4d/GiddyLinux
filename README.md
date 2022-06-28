@@ -42,3 +42,5 @@
   <table>
 <div>
 
+## Other Stuff
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zjk0wafksannwukijsrjk0j3a&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
