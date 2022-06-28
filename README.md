@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </div>
-## GitHub Stats 📈
+
+# GitHub Stats 📈
 <div align="center">
   <table width="100%">
     <tbody>
