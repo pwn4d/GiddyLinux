@@ -18,7 +18,7 @@
 </div>
 
 ## GitHub Stats 📈
-<div align="center">
+<div align="center" border-bottom=none>
   <table width="100%">
     <tbody>
       <tr>
