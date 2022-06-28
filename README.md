@@ -33,7 +33,7 @@
         <div align="center" width="100%">
           <a href="https://github.com/GiddyLinux">
             <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/GiddyLinux?cardType=github&theme=github" alt="Giddt's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=GiddyLinux&show_icons=true&hide=stars&hide_border=true&theme=radical" alt="Giddy's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=GiddyLinux&show_icons=true&hide=stars&hide_border=false&theme=radical" alt="Giddy's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
