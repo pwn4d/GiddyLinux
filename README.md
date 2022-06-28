@@ -1,5 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/86152883/176130558-3d48fccb-0726-4a7e-b288-0616d361a2b2.png)
-### Languages, Tools, and Skills 🛠
+# Languages, Tools, and Skills 🛠
 <div align="center">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 
@@ -18,11 +18,11 @@
 </div>
 
 
-## $whoami
+# $whoami
 
-Hi. I'm Anthony. I'm a 14yr old coder/ cybersec enthusiast. This is where I will showcase my projects. If you have any questions please contact me on discord Giddy#6129 👍
+## Hi, I'm Anthony. I'm a 14yr old coder/ cybersec enthusiast. This is where I will showcase my projects. If you have any questions please contact me on discord Giddy#6129 👍
 
-## GitHub Stats 📈
+# GitHub Stats 📈
 <div align="center" border-bottom=none>
   <table width="100%">
     <tbody>
