@@ -16,9 +16,33 @@
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </div>
+### GitHub Stats 📈
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/GiddyLinux">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiddyLinux&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Giddy's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/GiddyLinux">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/GiddyLinux?cardType=github&theme=github" alt="Giddt's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=GiddyLinux&show_icons=true&hide=stars&hide_border=true" alt="Giddy's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
 
 <div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiddyLinux&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiddyLinux&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiddyLinux&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+// [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiddyLinux&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+// [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiddyLinux&theme=radical)](https://git.io/streak-stats)
+// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiddyLinux&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
