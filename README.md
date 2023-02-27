@@ -20,7 +20,7 @@
 
 # $whoami
 
-## Hi, I'm Anthony. I'm a 14yr old coder/ cybersec enthusiast. This is where I will showcase my projects. If you have any questions please contact me on discord Giddy#6129 👍
+## Hi, I'm Anthony. I'm a 15yr old coder/ cybersec enthusiast. This is where I will showcase my projects. If you have any questions please contact me on discord toney#6129 👍
 
 # GitHub Stats 📈
 <div align="center" border-bottom=none>
