@@ -44,7 +44,7 @@
     - Counts down from given number 
     - TODO
         - add option to play noise when countdown is finished  
-## finished
+## finished | R = rewriting soon
 - [csv to json](https://github.com/pwn4d/csv2_json) (rust)
     - A program to convert csv to json (and 2d lists)
 - [bitcoin scraper](https://github.com/pwn4d/bitcoin-scraper) (python)
