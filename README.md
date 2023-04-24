@@ -23,7 +23,7 @@
 
 ``` Hi, I'm Anthony. I'm a 15yr old coder/ cybersec enthusiast. This is where I will showcase my projects. If you have any questions please contact me on discord toney#6129 ```👍
 
-# `ls`
+# ls projects/
 ## currently working on / in progress
 - [linux commands-rs](https://github.com/pwn4d/linux-commands.rs) (rust)
     - A small project rewriting some standard Linux tools in rust
