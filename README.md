@@ -26,7 +26,7 @@
 # hacking
 
 #### [Here is my hacking and cybersecurity repositorys](https://github.com/pwn4d/hacking)
-<script src="https://tryhackme.com/badge/749446"></script>
+
 # ls projects/
 
 ## External stuff
