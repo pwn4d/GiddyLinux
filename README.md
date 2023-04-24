@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/86152883/176130558-3d48fccb-0726-4a7e-b288-0616d361a2b2.png)
+![banner](https://user-images.githubusercontent.com/86152883/233983030-d21f633c-a623-4030-8557-1baa7a5af7b9.png)
+
 # Languages, Tools, and Skills 🛠
 <div align="center">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
