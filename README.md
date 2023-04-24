@@ -25,48 +25,48 @@
 
 # `ls`
 ## currently working on / in progress
-- [linux commands-rs][https://github.com/pwn4d/linux-commands.rs] (rust)
+- [linux commands-rs](https://github.com/pwn4d/linux-commands.rs) (rust)
     - A small project rewriting some standard Linux tools in rust
     - tools included
         - `cat`  
     - TODO
         - add more tools
-- [file splitter][https://github.com/pwn4d/file-splitter] (rust)
+- [file splitter](https://github.com/pwn4d/file-splitter) (rust)
     - A program that splits big files into smaller files
         - TODO
             - add basic functionality (repo is pretty much a placeholder at the moment)   
 
-- [countdown timer][https://github.com/pwn4d/countdown-timer] (rust)
+- [countdown timer](https://github.com/pwn4d/countdown-timer) (rust)
     - Counts down from given number 
     - TODO
         - add option to play noise when countdown is finished  
 ## finished
-- [csv to json][https://github.com/pwn4d/csv2_json] (rust)
+- [csv to json](https://github.com/pwn4d/csv2_json) (rust)
     - A program to convert csv to json (and 2d lists)
-- [bitcoin scraper][https://github.com/pwn4d/bitcoin-scraper] (python)
+- [bitcoin scraper](https://github.com/pwn4d/bitcoin-scraper) (python)
     - Scrapes details on bitcoin wallets using beautiful soup 
-- [denary to binary convertor][https://github.com/pwn4d/denary-to-binary-convertor] (rust)
+- [denary to binary convertor](https://github.com/pwn4d/denary-to-binary-convertor) (rust)
     - Converts numbers from denary to binary 
-- [Ipscanner (kotlin)][https://github.com/pwn4d/ipscanner-kotlin] (kotlin)
+- [Ipscanner (kotlin)](https://github.com/pwn4d/ipscanner-kotlin) (kotlin)
     - Generates random IPs, check if they are valid, scans a specified port on the system
     - I rewrite this project in every new language I try
-- [Craiyon Discord bot][https://github.com/pwn4d/craiyon-bot] (python)
+- [Craiyon Discord bot](https://github.com/pwn4d/craiyon-bot) (python)
     - A discord bot to access the Craiyon api from discord
-- [Uberduck Discord bot][https://github.com/pwn4d/Uberduck-bot] (python)
+- [Uberduck Discord bot](https://github.com/pwn4d/Uberduck-bot) (python)
     - Text to speech in voice channels using the Uberduck api
-- [Binary Enumerator][https://github.com/pwn4d/Binary-Enumerator] (python)
+- [Binary Enumerator](https://github.com/pwn4d/Binary-Enumerator) (python)
     - Shows what binaries you have RWX access to. 
     - Has a use case for SUID bit vulnerabilitys
-- [Ipscanner][https://github.com/pwn4d/Ipscanner] (python)
+- [Ipscanner](https://github.com/pwn4d/Ipscanner) (python)
     - Generates random IPs, check if they are valid, scans a specified port on the system
     - Also has discord webhook support
     - I rewrite this project in every new language I try
-- [File Changer][https://github.com/pwn4d/file-changer] (python)
+- [File Changer](https://github.com/pwn4d/file-changer) (python)
     - One of the first python programs I ever wrote
     - completely useless
         - it is here to act as a way to show how my code has approved over time 
 ## unfinished / broken
-- [Discord VirusTotal bot][https://github.com/pwn4d/Discord-VirusTotal-Bot] (python)
+- [Discord VirusTotal bot](https://github.com/pwn4d/Discord-VirusTotal-Bot) (python)
     - scans discord attachments in VirusTotal
     - needs to be rewritten (PRs appreciated)
 
