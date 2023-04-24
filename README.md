@@ -47,21 +47,21 @@
 ## finished | R = rewriting soon
 - [csv to json](https://github.com/pwn4d/csv2_json) (rust)
     - A program to convert csv to json (and 2d lists)
-- [bitcoin scraper](https://github.com/pwn4d/bitcoin-scraper) (python)
+- [bitcoin scraper](https://github.com/pwn4d/bitcoin-scraper) (python) 
     - Scrapes details on bitcoin wallets using beautiful soup 
 - [denary to binary convertor](https://github.com/pwn4d/denary-to-binary-convertor) (rust)
     - Converts numbers from denary to binary 
 - [Ipscanner (kotlin)](https://github.com/pwn4d/ipscanner-kotlin) (kotlin)
     - Generates random IPs, check if they are valid, scans a specified port on the system
     - I rewrite this project in every new language I try
-- [Craiyon Discord bot](https://github.com/pwn4d/craiyon-bot) (python)
+- [Craiyon Discord bot](https://github.com/pwn4d/craiyon-bot) (python) R
     - A discord bot to access the Craiyon api from discord
-- [Uberduck Discord bot](https://github.com/pwn4d/Uberduck-bot) (python)
+- [Uberduck Discord bot](https://github.com/pwn4d/Uberduck-bot) (python) R
     - Text to speech in voice channels using the Uberduck api
 - [Binary Enumerator](https://github.com/pwn4d/Binary-Enumerator) (python)
     - Shows what binaries you have RWX access to. 
     - Has a use case for SUID bit vulnerabilitys
-- [Ipscanner](https://github.com/pwn4d/Ipscanner) (python)
+- [Ipscanner](https://github.com/pwn4d/Ipscanner) (python) R
     - Generates random IPs, check if they are valid, scans a specified port on the system
     - Also has discord webhook support
     - I rewrite this project in every new language I try
