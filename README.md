@@ -30,16 +30,16 @@
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/GiddyLinux">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiddyLinux&hide=ruby&layout=compact&hide_border=false&langs_count=6&theme=radical" alt="Giddy's Language Stats" vertical-align="middle"/>
+          <a href="https://github.com/pwn4d">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwn4d&hide=ruby&layout=compact&hide_border=false&langs_count=6&theme=radical" alt="Giddy's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/GiddyLinux">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/GiddyLinux?cardType=github&theme=github" alt="Giddt's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=GiddyLinux&show_icons=true&hide=stars&hide_border=false&theme=radical" alt="Giddy's GitHub Stats" vertical-align="middle"/>
+          <a href="https://github.com/pwn4d">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pwn4d?cardType=github&theme=github" alt="Giddt's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=pwn4d&show_icons=true&hide=stars&hide_border=false&theme=radical" alt="Giddy's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
