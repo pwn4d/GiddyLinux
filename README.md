@@ -23,6 +23,10 @@
 
 ``` Hi, I'm Anthony. I'm a 15yr old coder/ cybersec enthusiast. This is where I will showcase my projects. If you have any questions please contact me on discord toney#6129 ```👍
 
+# hacking
+
+#### [Here is my hacking and cybersecurity repositorys](https://github.com/pwn4d/hacking)
+<script src="https://tryhackme.com/badge/749446"></script>
 # ls projects/
 
 ## External stuff
