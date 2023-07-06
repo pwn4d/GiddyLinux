@@ -72,7 +72,9 @@
 - [File Changer](https://github.com/pwn4d/file-changer) (python)
     - One of the first python programs I ever wrote
     - completely useless
-        - it is here to act as a way to show how my code has approved over time 
+        - it is here to act as a way to show how my code has approved over time
+- [File Sorter](https://github.com/pwn4d/file_sorter) (python)
+    - Sorts file into folders based on file extension
 ## unfinished / broken
 - [Discord VirusTotal bot](https://github.com/pwn4d/Discord-VirusTotal-Bot) (python)
     - scans discord attachments in VirusTotal
