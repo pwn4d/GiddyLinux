@@ -23,9 +23,9 @@
 
 ``` Hi, I'm Anthony. I'm a 16yr old programmer / cybersec enthusiast. This is where I will showcase my projects. If you have any questions please contact me on discord toney.music ```👍
 
-# hacking
+# cybersecurity
 
-## [Here is my hacking and cybersecurity repositorys](https://github.com/pwn4d/hacking)
+## [Here is my cybersecurity repositorys](https://github.com/pwn4d/hacking)
 
 # ls projects/
 
